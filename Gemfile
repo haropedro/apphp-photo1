@@ -31,6 +31,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'dotenv-rails'
+gem 'stripe'
+
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'

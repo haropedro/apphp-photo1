@@ -37,6 +37,7 @@ gem 'stripe'
 gem 'carrierwave'
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem 'gravatar_image_tag', '~> 1.2'
+gem 'acts_as_votable', '~> 0.11.1'
 
 
 # Use ActiveStorage variant
